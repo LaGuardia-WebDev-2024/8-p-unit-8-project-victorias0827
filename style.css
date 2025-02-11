@@ -1,25 +1,25 @@
 @font-face{
   font-family: water;
-  src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
+  src: url("https://cdn.glitch.global/5ee6fa75-6045-4a5b-8f7e-bb943d8782b6/Daily%20Bubble.ttf?v=173928786343502");
 }
 
 body {
   background-color: aliceblue;
   text-align: center;
-  color: navy;
+  color: pink;
   margin: auto;
   font-family: water;
 }
 
 h1{
-  font-size: 30px;
+  font-size: 50px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://cdn.glitch.global/5ee6fa75-6045-4a5b-8f7e-bb943d8782b6/fish.webp?v=1738942997198");
   background-size: 600px 400px;
   border-radius: 300px;
-  border: 5px solid white;
+  border: 5px solid pink
 }
 
 
